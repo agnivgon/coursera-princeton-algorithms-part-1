@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="week1" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="week1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +209,7 @@
       <updated>1707539607448</updated>
       <workItem from="1707539608768" duration="610000" />
       <workItem from="1707540259130" duration="440000" />
-      <workItem from="1707540710286" duration="156000" />
+      <workItem from="1707540710286" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="week1">
       <option name="closed" value="true" />
@@ -224,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707540394541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week1">
+      <option name="closed" value="true" />
+      <created>1707541020792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707541020792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
